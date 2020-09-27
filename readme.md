@@ -2,7 +2,7 @@
 
 Bounicing ball simulation
 
-![Bouncing call simulation](bounding-ball.png "Bouncing call simulation")
+![Bouncing call simulation](bouncing-ball.png "Bouncing call simulation")
 
 To get started run
 
